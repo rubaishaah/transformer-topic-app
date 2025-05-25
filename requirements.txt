@@ -1,0 +1,10 @@
+streamlit
+bertopic
+sentence-transformers
+nltk
+pandas
+wordcloud
+matplotlib
+scikit-learn
+umap-learn
+hdbscan
